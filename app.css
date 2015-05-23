@@ -1,0 +1,28 @@
+#search-label {
+    position: absolute;
+    top: 18px;
+    left: 35px;
+}
+#key {
+    position: absolute;
+    left: 100px;
+    width: 400px;
+    height: 30px;
+}
+#result {
+    position: absolute;
+    width: 404px;
+    left: 120px;
+    top: 43px;
+    background-color: white;
+    z-index: 2;
+    border: 1px solid lightgray;
+}
+#result li {
+    display: block;
+    margin-bottom: 15px;
+}
+#text {
+    position: absolute;
+    top: 80px;
+}
